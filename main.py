@@ -14,8 +14,3 @@ print('Try to do mathematical actions with them!')
 print('Good luck!')
 
 
-print(gun+gym)
-print(gum*gun)
-print(gym*gum)
-print(gun+gum)
-print(gloo+gun)
